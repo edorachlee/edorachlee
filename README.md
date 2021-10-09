@@ -3,7 +3,7 @@ If this is your first time here, here's a brief summary of my projects:
 
 - crop_yield_pipeline: This is a data ETL pipeline in Python that uses the Requests framework to query NOAA/USDA RESTful APIs for weather, soil, and crop data. 
 I perform basic data preprocessing such as null value replacement, standardization of Gaussian values, and table merging. This data is stored internally within Python
-and intended to be ingested into a machine learning algorithm for crop yield prediction. (https://www.)
+and intended to be ingested into a machine learning algorithm for crop yield prediction.
 
 - kaggle_projects: This repo is a collection of my Kaggle Python projects grouped here for convenience. Currently, it contains the following projects:
   - suspicious-transaction-detection: A fraud transaction detection machine learning model using gradient boosting and K-best features
