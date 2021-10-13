@@ -11,7 +11,7 @@ and intended to be ingested into a machine learning algorithm for crop yield pre
 - tableau_dashboard_collection: A collection of my data visualization work in Tableau, such as Apple stock trends, CO2 emissions, optimal hospital location, etc.
 - tictactoe_AI: A game of TicTacToe in C++ that lets you play against a fellow human or a built-in AI. Note that you will absolutely need Windows for this.
 - storage: C implementations of dynamic storage operations.
-- olfactory: A Perceptron linear classifier model trained on locust antennae behavior data, that predicts locusts' reaction to certain types of stimuli.
+- olfactory: A MATLAB Perceptron linear classifier model trained on locust antennae behavior data, that predicts locusts' reaction to certain types of stimuli.
 - Luo_Rudy_model: Produced as part of my graduate research project related to computational cardiac models, this is A MATALB single cell and 1D cable simulation of the 1991 Luo-Rudy(LR1) cardiac model.
 Source: Luo, C., Rudy, Y. (1991). A Model of the Ventricular Cardiac Action Potential. Depolarization, Repolarization, and Their Interaction. Circulation Research, 68(6), 1501–1526. https://doi.org/10.1161/01.res.68.6.1501
 - openCARP_experiments: This is my ongoing research project using openCARP(www.opencarp.org), a C++ open-source cardiac simulation program with a Python interface. I am developing new cardiac computational models with this platform, and aim to produce a written thesis using optimization techniques(like Newton's method, gradient descent, etc.) to obtain optimal physiological parameters.
