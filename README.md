@@ -1,4 +1,4 @@
-Welcome to my Github! My name is Lucas and I'm excited about pretty much anything that is data or software related. Data science and software engineering are pretty distinct fields, but...why not "git" you a person that can do both :) I know that was bad.
+Welcome to my Github! My name is Lucas and I'm excited about pretty much anything that is data or software related. Data science and software engineering are pretty distinct fields, but...why not "git" you a person that can do both ;) I know that was bad.
 
 If this is your first time here, here's a brief summary of my projects in no particular order:
 
