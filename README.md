@@ -6,7 +6,7 @@ If this is your first time here, here's a brief summary of my projects in no par
 I perform basic data preprocessing such as null value replacement, standardization of Gaussian values, and table merging. This data is stored internally within Python
 and intended to be ingested into a machine learning algorithm for crop yield prediction.
 - [kaggle_projects](https://github.com/edorachlee/kaggle_projects): This repo is a collection of my Kaggle Python projects grouped here for convenience. Currently, it contains the following projects:
-  - [suspicious-transaction-detection]: A fraud transaction detection machine learning model using gradient boosting and K-best features
+  - suspicious-transaction-detection: A fraud transaction detection machine learning model using gradient boosting and K-best features
   - wildfire-ignition-point-prediction: A wildfire prediction machine learning model using GradientBoostingRegressor and one-hot encoding
 - [tableau_dashboard_collection](https://github.com/edorachlee/tableau_dashboard_collection): A collection of my data visualization work in Tableau, such as Apple stock trends, CO2 emissions, optimal hospital location, etc.
 - [tictactoe_AI](https://github.com/edorachlee/tictactoe_AI): A game of TicTacToe in C++ that lets you play against a fellow human or a built-in AI. Note that you will absolutely need Windows for this.
